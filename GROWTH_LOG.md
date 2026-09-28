@@ -6,6 +6,13 @@ Record every growth-relevant edit here. Keep entries short, factual, and useful 
 
 ## Change Log
 
+### 2026-09-28 - Adsterra integration
+
+- Task: Populate the fixed six Adsterra ad units (Native Banner, Banner 728x90, 468x60, 320x50, 160x600, Smartlink) in `src/data/ads.ts`; values were empty after Builder hand-off.
+- Files changed: `src/data/ads.ts`.
+- URLs affected: None; component placement and page structure unchanged.
+- Verification: `npm run verify` (typecheck, template, content, rendered SEO validation).
+
 ### 2026-09-28 - Fix FAQ categories blocking first production build
 
 - Task: Align two FAQ categories with the site content type so the first Cloudflare build can compile.
