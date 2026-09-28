@@ -29,12 +29,13 @@ export const homePage: PageContent = {
     ],
   },
   quickAnswer:
-    "Black Cat Book Club is the Idea Garden Games cozy idle Steam game launching on September 25, 2026 under AppID 3972410. A free demo with AppID 4656850 went live on June 3, 2026 and currently sits at 81% positive from 27 reviews. This hub answers the launch questions most visitors type: release date, Steam availability, gameplay, demo contents, and the first hour of play.",
+    "Black Cat Book Club is the Idea Garden Games cozy idle Steam game launching on September 25, 2026 under AppID 3972410 at $4.49 with a 10% off introductory offer ending October 9, 2026 (full price $4.99). A free demo with AppID 4656850 went live on June 3, 2026 and currently sits at 81% positive from 27 reviews. This hub answers the launch questions most visitors type: release date, Steam availability, gameplay, demo contents, and the first hour of play.",
   keyFacts: [
     { label: "Steam AppID (full)", value: "3972410" },
     { label: "Steam AppID (demo)", value: "4656850" },
     { label: "Planned release", value: "September 25, 2026" },
     { label: "Demo release", value: "June 3, 2026" },
+    { label: "Launch price", value: "$4.49 with 10% off intro offer ending October 9, 2026 (full price $4.99)" },
     { label: "Developer", value: "Idea Garden Games" },
     { label: "Demo review", value: "81% positive from 27 reviews" },
     { label: "Audio languages", value: "English only" },
@@ -60,14 +61,14 @@ export const homePage: PageContent = {
       type: "prose",
       heading: "When the Steam launch happens",
       body:
-        "The full game is dated September 25, 2026 on its Steam store page (AppID 3972410). The free demo went live on June 3, 2026 (AppID 4656850), and Idea Garden Games has kept it available through launch so players can preview the loop before paying. No separate pre-order window, early access, or timed unlock has been announced as of 2026-09-25. Pricing is shown as TBD on Steam at research date and will only be visible when the store page flips from coming-soon to live.",
+        "The full game is dated September 25, 2026 on its Steam store page (AppID 3972410) and is priced at $4.49 with a 10% off introductory offer ending October 9, 2026 (full price $4.99). The free demo went live on June 3, 2026 (AppID 4656850), and Idea Garden Games has kept it available through launch so players can preview the loop before paying. No separate pre-order window, early access, or timed unlock has been announced as of 2026-09-29.",
     },
     {
       id: "demo-scope",
       type: "prose",
       heading: "What the Black Cat Book Club demo includes",
       body:
-        "The demo exposes the same loop as the full game on a shorter scale: a cat reads in your library, earns Focus, and decodes glyphs to learn spells. The Steam demo page lists six achievements and eleven supported interface languages, with English as the only fully voiced and subtitled language. The 81% positive demo rating from 27 reviews as of 2026-09-25 reflects the same shape of feedback the launch will start with, so it is a useful signal for whether the vibe matches what you want from a cozy idle.",
+        "The demo exposes the same loop as the full game on a shorter scale: a cat reads in your library, earns Focus, and decodes glyphs to learn spells. The Steam demo page lists six achievements and eleven supported interface languages, with English as the only fully voiced and subtitled language. The 81% positive demo rating from 27 reviews as of 2026-09-29 reflects the same shape of feedback the launch will start with, so it is a useful signal for whether the vibe matches what you want from a cozy idle.",
     },
     {
       id: "first-hour",
@@ -99,17 +100,17 @@ export const homePage: PageContent = {
         {
           label: "Black Cat Book Club on Steam (AppID 3972410)",
           href: "https://store.steampowered.com/app/3972410/",
-          description: "`official/store` - checked `2026-09-25` - Release date, developer, tags, system requirements, language list, single-player status.",
+          description: "`official/store` - checked `2026-09-29` - Release date, developer, tags, system requirements, language list, single-player status, $4.49 launch price with 10% off intro offer ending October 9, 2026 ($4.99 base).",
         },
         {
           label: "Black Cat Book Club demo on Steam (AppID 4656850)",
           href: "https://store.steampowered.com/app/4656850/",
-          description: "`official/store` - checked `2026-09-25` - Demo release date, six achievements, eleven interface languages, 81% positive review aggregate from 27 reviews.",
+          description: "`official/store` - checked `2026-09-29` - Demo release date, six achievements, eleven interface languages, 81% positive review aggregate from 27 reviews.",
         },
       ],
     },
   ],
   relatedPageIds: ["overview", "release-status", "steam-availability", "gameplay-loop", "demo", "beginner-guide"],
   sourceStatus: "official",
-  lastReviewed: "2026-09-25",
+  lastReviewed: "2026-09-29",
 };

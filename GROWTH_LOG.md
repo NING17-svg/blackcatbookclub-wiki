@@ -6,6 +6,13 @@ Record every growth-relevant edit here. Keep entries short, factual, and useful 
 
 ## Change Log
 
+### 2026-09-29 - Launch price and intro offer on hub
+
+- Task: Confirm $4.49 launch price with 10% off introductory offer ending October 9, 2026 (full price $4.99) on /price, surface the same fact in /steam key facts, and add it to the homepage key facts and quick-answer so launch-day visitors see the live price without leaving the hub.
+- Files changed: `src/data/pages/release-pages.ts` (price-and-editions and steam-availability pages), `src/data/pages/home.ts` (quick-answer, key facts, launch-window module, source notes, lastReviewed).
+- URLs affected: `/price`, `/steam`, `/`.
+- Verification: `npm run verify` (typecheck, template, content, rendered SEO validation).
+
 ### 2026-09-28 - Adsterra integration
 
 - Task: Populate the fixed six Adsterra ad units (Native Banner, Banner 728x90, 468x60, 320x50, 160x600, Smartlink) in `src/data/ads.ts`; values were empty after Builder hand-off.
