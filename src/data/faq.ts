@@ -37,7 +37,7 @@ export const faqItems: FAQItem[] = [
     answer:
       "Confirmed at launch is Windows via Steam under AppID 3972410. Mac, Linux, consoles, and Steam Deck verification are not announced as of 2026-09-25.",
     pageIds: ["release-status", "faq", "wiki"],
-    category: "platforms",
+    category: "platform",
     schemaEligible: true,
     sourceStatus: "official",
   },
@@ -47,7 +47,7 @@ export const faqItems: FAQItem[] = [
     answer:
       "The guides hub covers the gameplay loop, the four spell schools (sigils, summoning seals, alchemy, astral magic), cat and library customisation, the beginner's first hour, and the desktop companion mode.",
     pageIds: ["guides", "faq"],
-    category: "guides",
+    category: "gameplay",
     schemaEligible: true,
     sourceStatus: "official",
   },

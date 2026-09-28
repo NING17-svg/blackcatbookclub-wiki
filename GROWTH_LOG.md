@@ -6,6 +6,13 @@ Record every growth-relevant edit here. Keep entries short, factual, and useful 
 
 ## Change Log
 
+### 2026-09-28 - Fix FAQ categories blocking first production build
+
+- Task: Align two FAQ categories with the site content type so the first Cloudflare build can compile.
+- Files changed: `src/data/faq.ts`.
+- URLs affected: None; FAQ answers and links are unchanged.
+- Verification: `npm run verify` before resuming deployment.
+
 ### 2026-08-12 - Static discovery and review freshness baseline added
 
 - Task: Add locale-aware static search, automatic recent updates, visible review dates, and browser metadata/security defaults to the shared template.
