@@ -1,0 +1,222 @@
+[
+  {
+    "id": "home",
+    "translationKey": "home",
+    "locale": "en-US",
+    "routeKind": "home",
+    "url": "/",
+    "alternates": {
+      "en-US": "/"
+    }
+  },
+  {
+    "id": "overview",
+    "translationKey": "overview",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/about",
+    "alternates": {
+      "en-US": "/about"
+    }
+  },
+  {
+    "id": "beginner-guide",
+    "translationKey": "beginner-guide",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/beginner-guide",
+    "alternates": {
+      "en-US": "/beginner-guide"
+    }
+  },
+  {
+    "id": "contact",
+    "translationKey": "contact",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/contact",
+    "alternates": {
+      "en-US": "/contact"
+    }
+  },
+  {
+    "id": "customisation",
+    "translationKey": "customisation",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/customisation",
+    "alternates": {
+      "en-US": "/customisation"
+    }
+  },
+  {
+    "id": "demo",
+    "translationKey": "demo",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/demo",
+    "alternates": {
+      "en-US": "/demo"
+    }
+  },
+  {
+    "id": "desktop-companion",
+    "translationKey": "desktop-companion",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/desktop-companion",
+    "alternates": {
+      "en-US": "/desktop-companion"
+    }
+  },
+  {
+    "id": "faq",
+    "translationKey": "faq",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/faq",
+    "alternates": {
+      "en-US": "/faq"
+    }
+  },
+  {
+    "id": "gameplay-loop",
+    "translationKey": "gameplay-loop",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/gameplay",
+    "alternates": {
+      "en-US": "/gameplay"
+    }
+  },
+  {
+    "id": "guides",
+    "translationKey": "guides",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/guides",
+    "alternates": {
+      "en-US": "/guides"
+    }
+  },
+  {
+    "id": "languages",
+    "translationKey": "languages",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/languages",
+    "alternates": {
+      "en-US": "/languages"
+    }
+  },
+  {
+    "id": "magic-system",
+    "translationKey": "magic-system",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/magic",
+    "alternates": {
+      "en-US": "/magic"
+    }
+  },
+  {
+    "id": "multiplayer-status",
+    "translationKey": "multiplayer-status",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/multiplayer",
+    "alternates": {
+      "en-US": "/multiplayer"
+    }
+  },
+  {
+    "id": "platforms",
+    "translationKey": "platforms",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/platforms",
+    "alternates": {
+      "en-US": "/platforms"
+    }
+  },
+  {
+    "id": "price-and-editions",
+    "translationKey": "price-and-editions",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/price",
+    "alternates": {
+      "en-US": "/price"
+    }
+  },
+  {
+    "id": "privacy-policy",
+    "translationKey": "privacy-policy",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/privacy-policy",
+    "alternates": {
+      "en-US": "/privacy-policy"
+    }
+  },
+  {
+    "id": "release-status",
+    "translationKey": "release-status",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/release",
+    "alternates": {
+      "en-US": "/release"
+    }
+  },
+  {
+    "id": "reviews-and-reception",
+    "translationKey": "reviews-and-reception",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/reviews",
+    "alternates": {
+      "en-US": "/reviews"
+    }
+  },
+  {
+    "id": "steam-availability",
+    "translationKey": "steam-availability",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/steam",
+    "alternates": {
+      "en-US": "/steam"
+    }
+  },
+  {
+    "id": "system-requirements",
+    "translationKey": "system-requirements",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/system-requirements",
+    "alternates": {
+      "en-US": "/system-requirements"
+    }
+  },
+  {
+    "id": "terms",
+    "translationKey": "terms",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/terms",
+    "alternates": {
+      "en-US": "/terms"
+    }
+  },
+  {
+    "id": "wiki",
+    "translationKey": "wiki",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/wiki",
+    "alternates": {
+      "en-US": "/wiki"
+    }
+  }
+]
